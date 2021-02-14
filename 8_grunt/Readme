@@ -1,0 +1,7 @@
+
+npm init
+npm install typescript --save
+npm install grunt --save
+npm install grunt-cli --save
+npm install grunt-ts --save
+npx grunt

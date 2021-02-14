@@ -1,0 +1,6 @@
+# Hidden System Files
+.DS_Store
+Thumbs.db
+
+# Package Manager
+node_modules

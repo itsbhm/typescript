@@ -1,0 +1,5 @@
+Compile by combining two or more ts files: 
+
+# tsc <file1>.ts <file2>.ts --out outputfile.js
+
+tsc util.ts timesTwo.ts --out util.js
